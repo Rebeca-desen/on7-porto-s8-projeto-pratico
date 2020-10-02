@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "musica": "man down",
+        "artista": "Rihanna",
+        "album": "loud",
+        "premiada": true,
+        "genero": "reggae, pop"
+    },
+    
+    {
+        "id": 2,
+        "musica": "god is a woman",
+        "artista": "Ariana Grande",
+        "album": "sweetener",
+        "premiada": false,
+        "genero": "pop"
+    },
+    {
+        "id": 3,
+        "musica": "run the world (girls)",
+        "artista": "Beyonce",
+        "album": "4",
+        "premiada": true,
+        "genero": "pop"
+    },
+    {
+        "id": 4,
+        "musica": "dona de mim",
+        "artista": "IZA",
+        "album": "dona de mim",
+        "premiada": false,
+        "genero": "pop"
+    },
+    {
+        "id": 5,
+        "musica": "é o poder",
+        "artista": "Karol Conka",
+        "album":"é o poder",
+        "premiada": false,
+        "genero": "hip-hop"
+    },
+    {
+        "id": 6,
+        "musica": "maria da vila matilde",
+        "artista": "Elza Soares",
+        "album": " a mulher do fim do mundo",
+        "premiada": false,
+        "genero": "samba"
+    },
+    {
+        "id": 7,
+        "musica": "todxs putxs",
+        "artista": "Ekena",
+        "album": "nó",
+        "premiada": false,
+        "genero": "folk"
+    },
+    {
+        "id": 8,
+        "musica": "I fire a boy",
+        "artista": "Beyonce",
+        "album":"I am...Sasha Fierce",
+        "premiada": false,
+        "genero":"pop"
+    }
+   
+]
